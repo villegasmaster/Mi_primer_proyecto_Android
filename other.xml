@@ -63,4 +63,16 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://Mi_primer_proyecto_Android" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://Mi_primer_proyecto_Android" />
+      </list>
+    </option>
+  </component>
 </application>
